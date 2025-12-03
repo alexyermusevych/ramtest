@@ -1,6 +1,6 @@
 function open() {
-    window.open('google.com')
-    oppen()
+    window.open('https://google.com')
+    open()
 }
 
 document.querySelector('button').addEventListener('click', () => {
